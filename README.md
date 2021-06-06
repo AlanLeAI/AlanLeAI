@@ -21,7 +21,7 @@ I'm presently hard-core to get bachelor's degrees of Computer Science and Mathem
 - 🤝 I’m looking for **Research Opportunity** in Math and Computer Vision<img src="https://media.giphy.com/media/pOx12AEADoIV6zvJaS/giphy.gif" width="50" />&nbsp;
 - 🏆 You can find all my achievements on [Linkedin](https://www.linkedin.com/in/le-tuan-02b062199/).
 - 💬 Ask me about anything tech related and maybe some soft skills, I'm very happy if I can help.
-- ⚡ Fun fact: **I never stop coding, it just a longer interval between code lines.**
+- ⚡ Fun fact: **I thought I knew everything about AI, then I realized I knew nothing.**
 
 <h3 align="left"><img src="https://media1.giphy.com/media/3oKIPkHXpUP8lIO0AU/giphy.gif" width="30">&nbsp;&nbsp;Languages and Tools:</h3>
 <p align="left">
