@@ -17,7 +17,7 @@ I'm presently hard-core to get bachelor's degrees of Computer Science and Mathem
 - <img src="https://media2.giphy.com/media/5aYfJYohCSeYgtVlUj/giphy.gif" width="30" />&nbsp;I’m currently learning `Computer Science and Math`.
 
 
-- 🎯 Life Hack: ***"Sleeping with a problem, can actually solve it."***. 
+- 🎯 Life Hack: ***"By far, the greatest danger of Artificial Intelligence is that people conclude too early that they understand it."***. [Eliezer Yudkowsky](https://en.wikipedia.org/wiki/Eliezer_Yudkowsky)
 - 🤝 I’m looking for **Research Opportunity** in Math and Computer Vision<img src="https://media.giphy.com/media/pOx12AEADoIV6zvJaS/giphy.gif" width="50" />&nbsp;
 - 🏆 You can find all my achievements on [Linkedin](https://www.linkedin.com/in/le-tuan-02b062199/).
 - 💬 Ask me about anything tech related and maybe some soft skills, I'm very happy if I can help.
