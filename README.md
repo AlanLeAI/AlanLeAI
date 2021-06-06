@@ -2,7 +2,7 @@
 
 I'm presently hard-core to get bachelor's degrees of Computer Science and Mathematics at [DePauw University](https://www.depauw.edu/) - Class of 2024 &nbsp;<img src="https://media.giphy.com/media/d5kbFdLvX5SddtR9kz/giphy.gif" width="35">
 
-<img align='right' src="https://media.giphy.com/media/n6mEMqAuYOQ8l8qcEE/giphy.gif" width="350">
+<img align='right' src="https://media.giphy.com/media/VPZU7OKgjyEI7HetU0/giphy.gif" width="350">
 <h3 align="left">🧐&nbsp;&nbsp;Personal Information:</h3>
 
 [![Gmail](https://img.shields.io/twitter/url?label=Gmail&logo=gmail&url=https://gmail.com)](mailto:tuanle_2024@depauw.edu)
