@@ -14,7 +14,6 @@
     <strong>Zotec Partners, Carmel, IN</strong> (June 2023 - August 2023) <br>
     <strong>Software Engineer Intern</strong>
     <ul>
-      
       <li>Analyzed 3,000,000 customer calls using Microsoft SQL Server and Python, uncovering insights to enhance customer services.</li>
       <li>Developed and deployed advanced machine learning models using XGBoost and CatBoost on AWS Lambda and SageMaker, achieving 93.11% accuracy.</li>
       <li>Optimized outreach strategies, significantly improving operational efficiency, resource allocation, and customer engagement.</li>
