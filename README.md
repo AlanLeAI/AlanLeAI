@@ -63,7 +63,7 @@
 
   <img src="https://user-images.githubusercontent.com/98330/63813335-20cd4b80-c8e2-11e9-9c04-e4dbf7285aa1.png" alt="PostgreSQL" align="left" width="36" />  
   
-  <img src = "https://banner2.cleanpng.com/20180718/hfx/kisspng-react-javascript-vue-js-logo-science-experiments-5b4fa654cef869.0219548815319465808478.jpg" width="36" />
+  <img src = "https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" width="36" />
 
 </p>
 
