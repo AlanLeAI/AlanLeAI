@@ -62,8 +62,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch" align="left" width="34" />
 
   <img src="https://user-images.githubusercontent.com/98330/63813335-20cd4b80-c8e2-11e9-9c04-e4dbf7285aa1.png" alt="PostgreSQL" align="left" width="36" />  
-  
-  <img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F1174949%2Fjs_react_js_logo_react_react_native_icon&psig=AOvVaw3Um3Bki_S6GLdNiD252DpB&ust=1720552829791000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJjc0fOUmIcDFQAAAAAdAAAAABAE" width="36" />
 
 </p>
 
