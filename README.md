@@ -20,18 +20,18 @@
     </ul>
   </li>
   <li>
-    <strong>DePauw University, Greencastle, IN</strong> (March 2022 - August 2022)
+    <strong>DePauw University, Greencastle, IN</strong> (March 2022 - August 2022) <br>
+    <strong>Undergraduate Research Assistant</strong>
     <ul>
-      <li>Undergraduate Research Assistant</li>
       <li>Developed an emotion recognition system using Tensorflow and Python, enabling personalized music recommendations based on facial expressions.</li>
       <li>Analyzed 50+ research papers to identify efficient AI models, leading to a 9.7% performance enhancement on the AffectNet dataset.</li>
       <li>Published a first-author research paper in the Association for the Advancement of Artificial Intelligence (AAAI 23).</li>
     </ul>
   </li>
   <li>
-    <strong>FPT Software, Richardson, TX</strong> (April 2021 - August 2021)
+    <strong>FPT Software, Richardson, TX</strong> (April 2021 - August 2021) <br>
+    <strong>Software Engineer Intern</strong>
     <ul>
-      <li>Software Engineer Intern | Cloud, Big Data, and Intelligence (CBI) Department</li>
       <li>Engineered an AI application using PyTorch for 3D point cloud object classification and segmentation, achieving a 13% accuracy improvement.</li>
       <li>Developed a web application using Python and Flask for converting scanned objects into 3D point clouds.</li>
       <li>Collaborated with senior data scientists to transition the developed system into practical industrial applications.</li>
