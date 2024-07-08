@@ -1,7 +1,6 @@
 <h2>👋 Hello coders, I'm Tuan A. Le &nbsp;<img src="https://media.giphy.com/media/uB6eLycBCOl68/giphy.gif" width="35"></h2>
 
-I'm currently pursuing a Master of Computer Science at [Iowa State University](https://www.iastate.edu/) - Class of 2026 &nbsp;<img src="https://media.giphy.com/media/d5kbFdLvX5SddtR9kz/giphy.gif" width="35">
-I graduated from [DePauw University](https://www.depauw.edu/) with a Bachelor of Arts in Computer Science and Mathematics, Summa Cum Laude, with a GPA of 3.85/4.0.
+I'm currently pursuing a Master of Computer Science at [Iowa State University](https://www.iastate.edu/) - Class of 2026 &nbsp;<img src="[https://media.giphy.com/media/d5kbFdLvX5SddtR9kz/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AIowa_State_Cyclones_logo.svg&psig=AOvVaw0odZievQD3yl0UcasYkxdQ&ust=1720551291664000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDCpJaPmIcDFQAAAAAdAAAAABAR)" width="35">. I graduated from [DePauw University](https://www.depauw.edu/) with a Bachelor of Arts in Computer Science and Mathematics, Summa Cum Laude, with a GPA of 3.85/4.0. &nbsp;<img src="https://media.giphy.com/media/d5kbFdLvX5SddtR9kz/giphy.gif" width="35">
 
 <img align='right' src="https://media.giphy.com/media/VPZU7OKgjyEI7HetU0/giphy.gif" width="350">
 <h3 align="left">🧐&nbsp;&nbsp;Personal Information:</h3>
