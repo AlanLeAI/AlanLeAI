@@ -10,7 +10,7 @@
 
 <h3 align="left">💼 Professional Experience:</h3>
 <ul>
-  <li>
+  <li style="margin-bottom: 20px;">
     <strong>Zotec Partners, Carmel, IN</strong> (June 2023 - August 2023) <br>
     <strong>Software Engineer Intern</strong>
     <ul>
@@ -19,7 +19,7 @@
       <li>Optimized outreach strategies, significantly improving operational efficiency, resource allocation, and customer engagement.</li>
     </ul>
   </li>
-  <li>
+  <li style="margin-bottom: 20px;">
     <strong>DePauw University, Greencastle, IN</strong> (March 2022 - August 2022) <br>
     <strong>Undergraduate Research Assistant</strong>
     <ul>
@@ -28,7 +28,7 @@
       <li>Published a first-author research paper in the Association for the Advancement of Artificial Intelligence (AAAI 23).</li>
     </ul>
   </li>
-  <li>
+  <li style="margin-bottom: 20px;">
     <strong>FPT Software, Richardson, TX</strong> (April 2021 - August 2021) <br>
     <strong>Software Engineer Intern</strong>
     <ul>
