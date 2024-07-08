@@ -1,23 +1,17 @@
 <h2>👋 Hello coders, I'm Tuan (Alan) Le &nbsp;<img src="https://media.giphy.com/media/uB6eLycBCOl68/giphy.gif" width="35"></h2>
-
-I'm currently pursuing a Master of Computer Science at [Iowa State University](https://www.iastate.edu/)  &nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Iowa_State_Cyclones_logo.svg" width="35"> - Class of 2026. I graduated from [DePauw University](https://www.depauw.edu/) with a Bachelor of Arts in Computer Science and Mathematics, Summa Cum Laude, with a GPA of 3.85/4.0. &nbsp;<img src="https://media.giphy.com/media/d5kbFdLvX5SddtR9kz/giphy.gif" width="35">
-
 <h3 align="left">🧑‍🎓 Education:</h3>
-<ul>
-  <li>
-    <strong>Iowa State University, Ames, IA</strong> (August 2024 - May 2026)
-    <ul>
-      <li>Master of Computer Science</li>
-    </ul>
-  </li>
-  <li>
-    <strong>DePauw University, Greencastle, IN</strong> (September 2020 - May 2024)
-    <ul>
-      <li>Bachelor of Arts in Computer Science and Mathematics (Double Major), GPA: 3.85/4.0, Summa Cum Laude</li>
-      <li>Honors/Awards: 1st Prize Winner for NanoGiants Data Analytics Global Hackathon, Robert J Thomas Outstanding Computer Science Senior Award</li>
-    </ul>
-  </li>
-</ul>
+  <strong><img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Iowa_State_Cyclones_logo.svg" width="35">&nbsp;[Iowa State University](https://www.iastate.edu/), Ames, IA</strong> (August 2024 - May 2026)
+  <ul>
+    <li>Master of Computer Science</li>
+  </ul>
+  <strong><img src="https://media.giphy.com/media/d5kbFdLvX5SddtR9kz/giphy.gif" width="35"> &nbsp;
+ [DePauw University](https://www.depauw.edu/), Greencastle, IN</strong> (September 2020 - May 2024)
+  <ul>
+    <li>Bachelor of Arts in Computer Science and Mathematics (Double Major), GPA: 3.85/4.0, Summa Cum Laude</li>
+    <li>Honors/Awards: 1st Prize Winner for NanoGiants Data Analytics Global Hackathon, Robert J Thomas Outstanding Computer Science Senior Award</li>
+  </ul>
+
+
 
 <img align='right' src="https://media.giphy.com/media/VPZU7OKgjyEI7HetU0/giphy.gif" width="350">
 <h3 align="left">🧐&nbsp;&nbsp;Personal Information:</h3>
