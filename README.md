@@ -41,7 +41,7 @@
 
 
 - 🎯 Life Hack: ***"By far, the greatest danger of Artificial Intelligence is that people conclude too early that they understand it."***. [Eliezer Yudkowsky](https://en.wikipedia.org/wiki/Eliezer_Yudkowsky)
-- 🤝 I’m looking for **Research Opportunities** in Math and Computer Vision<img src="https://media.giphy.com/media/pOx12AEADoIV6zvJaS/giphy.gif" width="50" />&nbsp;
+- 🤝 I’m looking for **Research Opportunities** in Math and Computer Vision<img src="https://media.giphy.com/media/pOx12AEADoIV6zvJaS/giphy.gif" width="50" />&nbsp;, Software Engineer, and Data Science
 - 🏆 You can find all my achievements on [Linkedin](https://www.linkedin.com/in/tuanle197/).
 - 💬 Ask me about anything tech related and maybe some soft skills, I'm very happy if I can help.
 - ⚡ Fun fact: **I thought I knew everything about AI, then I realized I knew nothing.**
