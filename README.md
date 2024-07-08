@@ -7,18 +7,37 @@
 </ul>
 
 <img align='right' src="https://media.giphy.com/media/VPZU7OKgjyEI7HetU0/giphy.gif" width="350">
-<h3 align="left">🧐&nbsp;&nbsp;Personal Information:</h3>
 
-[![Gmail](https://img.shields.io/twitter/url?label=Gmail&logo=gmail&url=https://gmail.com)](mailto:tuanle@iastate.edu)
-[![Linkedin](https://img.shields.io/twitter/url?label=Linkedin&logo=linkedin&url=https://www.linkedin.com/in/tuanle197/)](https://www.linkedin.com/in/tuanle197/)
-[![GitHub](https://img.shields.io/twitter/url?label=GitHub&logo=github&url=https://github.com/Tuanprofessional)](https://github.com/Tuanprofessional)
-[![Instagram](https://img.shields.io/twitter/url?label=Instagram&logo=instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Flatuan_dpu%2F)](https://www.instagram.com/latuan_dpu/)
-
-- <img src="https://media.giphy.com/media/uK3mEG7Yv6UhnGLNLt/giphy.gif" width="30" />&nbsp; I have worked at [Zotec Partners](https://www.zotecpartners.com/) as a `Software Engineer Intern` and [FPT Software](https://www.fpt-software.com/) as an `AI Engineer` and `AI Researcher`.
-
-- <img src="https://media.giphy.com/media/h1QmJxwoCr19BtTkGt/giphy.gif" width="30" />&nbsp; I am an active member of the Information Technology Associates Program ([ITAP](https://www.depauw.edu/it/itap/)) and have worked for [Tenzer Center](https://www.depauw.edu/academics/centers/tenzercenter/) as a `Data Analyst and Unity Developer`.
-
-- <img src="https://media2.giphy.com/media/5aYfJYohCSeYgtVlUj/giphy.gif" width="30" />&nbsp;I’m currently pursuing degrees in `Computer Science and Mathematics`.
+<h3 align="left">💼 Professional Experience:</h3>
+<ul>
+  <li>
+    <strong>Zotec Partners, Carmel, IN</strong> (June 2023 - August 2023)
+    <ul>
+      <li>Software Engineer Intern</li>
+      <li>Analyzed 3,000,000 customer calls using Microsoft SQL Server and Python, uncovering insights to enhance customer services.</li>
+      <li>Developed and deployed advanced machine learning models using XGBoost and CatBoost on AWS Lambda and SageMaker, achieving 93.11% accuracy.</li>
+      <li>Optimized outreach strategies, significantly improving operational efficiency, resource allocation, and customer engagement.</li>
+    </ul>
+  </li>
+  <li>
+    <strong>DePauw University, Greencastle, IN</strong> (March 2022 - August 2022)
+    <ul>
+      <li>Undergraduate Research Assistant</li>
+      <li>Developed an emotion recognition system using Tensorflow and Python, enabling personalized music recommendations based on facial expressions.</li>
+      <li>Analyzed 50+ research papers to identify efficient AI models, leading to a 9.7% performance enhancement on the AffectNet dataset.</li>
+      <li>Published a first-author research paper in the Association for the Advancement of Artificial Intelligence (AAAI 23).</li>
+    </ul>
+  </li>
+  <li>
+    <strong>FPT Software, Richardson, TX</strong> (April 2021 - August 2021)
+    <ul>
+      <li>Software Engineer Intern | Cloud, Big Data, and Intelligence (CBI) Department</li>
+      <li>Engineered an AI application using PyTorch for 3D point cloud object classification and segmentation, achieving a 13% accuracy improvement.</li>
+      <li>Developed a web application using Python and Flask for converting scanned objects into 3D point clouds.</li>
+      <li>Collaborated with senior data scientists to transition the developed system into practical industrial applications.</li>
+    </ul>
+  </li>
+</ul>
 
 
 - 🎯 Life Hack: ***"By far, the greatest danger of Artificial Intelligence is that people conclude too early that they understand it."***. [Eliezer Yudkowsky](https://en.wikipedia.org/wiki/Eliezer_Yudkowsky)
