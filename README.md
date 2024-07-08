@@ -62,7 +62,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch" align="left" width="34" />
 
   <img src="https://user-images.githubusercontent.com/98330/63813335-20cd4b80-c8e2-11e9-9c04-e4dbf7285aa1.png" alt="PostgreSQL" align="left" width="36" />  
-  <img src = "https://www.flaticon.com/free-icon/physics_1126012?term=react&page=1&position=4&origin=search&related_id=1126012", width="36>
+  <img src = "https://www.flaticon.com/free-icon/physics_1126012?term=react&page=1&position=4&origin=search&related_id=1126012" width="36>
 
 </p>
 
