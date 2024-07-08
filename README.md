@@ -1,9 +1,5 @@
 <h2>👋 Hello coders, I'm Tuan (Alan) Le &nbsp;<img src="https://media.giphy.com/media/uB6eLycBCOl68/giphy.gif" width="35"></h2>
 <h3 align="left">🧑‍🎓 Education:</h3>
-<strong><img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Iowa_State_Cyclones_logo.svg" width="35">&nbsp; <a href="https://www.iastate.edu/">Iowa State University</a>, Ames, IA</strong> (August 2024 - May 2026)
-<ul>
-  <li>Master of Computer Science</li>
-</ul>
 <strong><img src="https://media.giphy.com/media/d5kbFdLvX5SddtR9kz/giphy.gif" width="35"> &nbsp; <a href="https://www.depauw.edu/">DePauw University</a>, Greencastle, IN</strong> (September 2020 - May 2024)
 <ul>
   <li>Bachelor of Arts in Computer Science and Mathematics (Double Major), GPA: 3.85/4.0, Summa Cum Laude</li>
