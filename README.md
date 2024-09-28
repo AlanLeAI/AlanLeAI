@@ -23,9 +23,9 @@
     <strong>DePauw University, Greencastle, IN</strong> (March 2022 - August 2022) <br>
     <strong>Fullstack Developer</strong>
     <ul>
-      <li>•	Developed an interactive website that help over 50 students in learning Computer Science concepts and algorithms effectively using Angular, Redux Toolkit, and Tailwind CSS. </li>
-      <li>Analyzed 50+ research papers to identify efficient AI models, leading to a 9.7% performance enhancement on the AffectNet dataset.</li>
-      <li>Published a first-author research paper in the Association for the Advancement of Artificial Intelligence (AAAI 23).</li>
+      <li>Developed an interactive website that helps over 50 students learn Computer Science concepts and algorithms effectively using Angular, Redux Toolkit, and Tailwind CSS. </li>
+      <li>Leveraged Rechart package to add more charts and visualizations and to keep track of the learning process of each student. Utilized Prisma to simply interact with the databases.</li>
+      <li>Managed courses and students’ data with PostgreSQL and AWS RDS, deployed the back end on AWS EC2, and launched the front-end via AWS Amplify. </li>
     </ul>
   </li>
   <li style="margin-bottom: 20px;">
