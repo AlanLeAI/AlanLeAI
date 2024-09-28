@@ -21,7 +21,7 @@
   </li>
   <li style="margin-bottom: 20px;">
     <strong>DePauw University, Greencastle, IN</strong> (March 2022 - August 2022) <br>
-    <strong>Undergraduate Research Assistant</strong>
+    <strong>Fullstack Developer</strong>
     <ul>
       <li>Developed an emotion recognition system using Tensorflow and Python, enabling personalized music recommendations based on facial expressions.</li>
       <li>Analyzed 50+ research papers to identify efficient AI models, leading to a 9.7% performance enhancement on the AffectNet dataset.</li>
