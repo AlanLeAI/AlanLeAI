@@ -48,10 +48,6 @@
 
 <h3 align="left"><img src="https://media1.giphy.com/media/3oKIPkHXpUP8lIO0AU/giphy.gif" width="30">&nbsp;&nbsp;Languages and Tools:</h3>
 <p align="left">
-    
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" align="left" width="36" /> 
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" align="left" width="36" /> 
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" align="left" width="36" /> 
 
