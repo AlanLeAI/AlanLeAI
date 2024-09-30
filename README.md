@@ -1,4 +1,4 @@
-<h2>👋 Hello coders, I'm Tuan (Alan) Le &nbsp;<img src="https://media.giphy.com/media/uB6eLycBCOl68/giphy.gif" width="35"></h2>
+ <h2>👋 Hello coders, I'm Tuan (Alan) Le &nbsp;<img src="https://media.giphy.com/media/uB6eLycBCOl68/giphy.gif" width="35"></h2>
 <h3 align="left">🧑‍🎓 Education:</h3>
 <strong><img src="https://media.giphy.com/media/d5kbFdLvX5SddtR9kz/giphy.gif" width="35"> &nbsp; <a href="https://www.depauw.edu/">DePauw University</a>, Greencastle, IN</strong> (September 2020 - May 2024)
 <ul>
@@ -14,7 +14,7 @@
     <strong>Zotec Partners, Carmel, IN</strong> (June 2023 - August 2023) <br>
     <strong>Software Engineer Intern</strong>
     <ul>
-      <li>Analyzed 3,000,000 customer calls using Microsoft SQL Server and Python, uncovering insights to enhance customer services.</li>
+      <li>Analyzed 3,000,000 customer calls using Microsoft SQL Server and Python, uncovering insights to enhance the call center.</li>
       <li>Developed and deployed advanced machine learning models using XGBoost and CatBoost on AWS Lambda and SageMaker, achieving 93.11% accuracy.</li>
       <li>Optimized outreach strategies, significantly improving operational efficiency, resource allocation, and customer engagement.</li>
     </ul>
